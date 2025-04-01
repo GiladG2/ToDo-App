@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C/C Practice questions/MiniProjects",
-      "program": "d:/C/C Practice questions/MiniProjects/build/Debug/outDebug",
+      "cwd": "d:/C/C Practice questions/MiniProjects/ToDoList",
+      "program": "d:/C/C Practice questions/MiniProjects/ToDoList/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
